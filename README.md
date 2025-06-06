@@ -1,3 +1,3 @@
 Git - 1 <br>
 This is Git repository <br>
-Author - Aryan
+Author - Aryan Virdi
